@@ -1,0 +1,46 @@
+body{
+  background-color: #FDE5E6;
+  font-family: palatino, serif;
+  font-weight: 200;
+  margin-left: 15%;
+}
+h1{
+  font-size: 35pt;
+  letter-spacing: 5px;
+}
+h2{
+  color: #4F465C;
+  font-size: 18pt;
+  letter-spacing: 1px;
+}
+h3{
+  font-size: 16pt;
+}
+p{
+  font-size: 13pt;
+}
+p.info{
+  font-size: 12pt;
+}
+p.link{
+  font-size: 11pt;
+  color:#448F69;
+}
+ul{
+  font-size: 13pt;
+}
+ol{
+  font-size: 13pt;
+}
+.interests{
+  font-size: 12ptpt;
+}
+img.headshot{
+  margin-left: 5%;
+}
+.education{
+  color: #4F465C;
+}
+.closing{
+  font-style: oblique;
+}
