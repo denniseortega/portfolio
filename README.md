@@ -12,6 +12,7 @@ _This is my first Independent Project at Epicodus. It is a Portfolio Landing Pag
 
 * _Web browser_
 * _HTML and CSS_
+* _denniseortega.github.io/portfolio_
 
 _This project only uses HTML and CSS._
 
