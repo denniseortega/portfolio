@@ -1,8 +1,8 @@
 body{
-  background-color: #FDE5E6;
+  background-color: #EEE4EE;
   font-family: palatino, serif;
   font-weight: 200;
-  margin-left: 15%;
+  margin-left: 5%;
 }
 h1{
   font-size: 35pt;
@@ -16,7 +16,7 @@ h2{
 .sidebar{
   width: 40%;
   float: left;
-  background-color: #F8F7F2;
+  background-color: #ffffff ;
 }
 h3{
   font-size: 16pt;
