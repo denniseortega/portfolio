@@ -27,6 +27,17 @@ h2{
   float: left;
   background-color: #ffffff ;
 }
+.contactsidebar{
+  width: 60%;
+  float: right;
+  background-color: #ffffff;
+}
+#homepage{
+  font-size: 15pt;
+}
+.contactinfo{
+  font-size: 11pt;
+}
 h3{
   font-size: 16pt;
   letter-spacing: 1px;
