@@ -13,6 +13,11 @@ h2{
   font-size: 18pt;
   letter-spacing: 1px;
 }
+.sidebar{
+  width: 40%;
+  float: left;
+  background-color: #F8F7F2;
+}
 h3{
   font-size: 16pt;
 }
