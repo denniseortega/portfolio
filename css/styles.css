@@ -1,6 +1,6 @@
 body{
   background-color: #FDE5E6;
-  font-family: andale mono, monospace;
+  font-family: palatino, serif;
   font-weight: 200;
   margin-left: 15%;
 }
@@ -45,6 +45,9 @@ img.headshot{
 }
 .education{
   color: #4F465C;
+}
+#time{
+  font-style: italic;
 }
 .closing{
   font-style: oblique;
