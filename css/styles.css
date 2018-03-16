@@ -52,9 +52,9 @@ img.headshot{
 .closing{
   font-style: oblique;
 }
-.whyepicodus{
+p.whyepicodus{
   margin: 10px:auto;
   border: 1px blue;
   padding: 3px;
-  background-color: #C3F1CF;
+  background-color: #F8F7F2;
 }
