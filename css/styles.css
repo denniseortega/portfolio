@@ -1,12 +1,12 @@
 body{
   background-color: #FDE5E6;
-  font-family: palatino, serif;
+  font-family: andale mono, monospace;
   font-weight: 200;
   margin-left: 15%;
 }
 h1{
   font-size: 35pt;
-  letter-spacing: 5px;
+  letter-spacing: 2px;
 }
 h2{
   color: #4F465C;
@@ -48,4 +48,10 @@ img.headshot{
 }
 .closing{
   font-style: oblique;
+}
+.whyepicodus{
+  margin: 10px:auto;
+  border: 1px blue;
+  padding: 3px;
+  background-color: #C3F1CF;
 }
